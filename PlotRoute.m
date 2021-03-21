@@ -1,5 +1,3 @@
-%输入route：           路线
-%输入x,y：             x,y坐标
 function PlotRoute(route,x,y)
 route=[route route(1)];
 % route=[route];
